@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hobbyist Software/Game Developer and Designer
+Student at @SPSEJecna
+
+Bored of code? Check out
+https://www.artstation.com/gasimo
+
 <!--
 **GasimoCodes/GasimoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
