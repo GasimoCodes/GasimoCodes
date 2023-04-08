@@ -6,6 +6,9 @@ Student at @SPSEJecna
 Bored of code? Check out
 https://www.artstation.com/gasimo
 
+
+🔭 Currently working on **Classified Site**, **SCP-Isolation** and **Jecna Nightshift**
+
 <!--
 **GasimoCodes/GasimoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
