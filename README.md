@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hobbyist Software/Game Developer and Designer
-Student at @SPSEJecna
+Student at @MFF_UK
 
 Bored of code? Check out
 https://www.artstation.com/gasimo
