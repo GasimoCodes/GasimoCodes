@@ -1,13 +1,27 @@
 ### Hi there 👋
 
 Hobbyist Software/Game Developer and Designer
+<br> 
 Student at @MFF_UK
 
-Bored of code? Check out
-https://www.artstation.com/gasimo
+Bored of code? Check out <br> 
+https://www.artstation.com/gasimo <br> 
+https://gasimo.itch.io/
 
+<br> 
 
-🔭 Currently working on **SCP-Isolation** and **Ether Game**
+🔭 Currently working on **SCP-Isolation** and **Ether**
+
+<br>
+
+### Past projects I worked on:
+
+|             |    |            |
+|--------------      |-----------    |------------|
+|Ječná Nightshift   |Solo dev    |         |
+|SCP: Classified Site |Co-owner and developer | (c) Akequ, formerly ALOB Games |
+|SCP: Fragmented Minds |UI Design Concept art | HST Game Studios | 
+
 
 <!--
 **GasimoCodes/GasimoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
