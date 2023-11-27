@@ -18,10 +18,10 @@ https://gasimo.itch.io/
 
 |Name             |What I did    |Team/Company            |
 |--------------      |-----------    |------------|
-|Reality Check |2D Art, Programming, UI | Me and 2 friends for the 48 hours GDS Gamejam 2023 | 
-|Ječná Nightshift   |Solo dev    |         |
-|SCP: Classified Site |Co-owner and developer | (c) Akequ, formerly ALOB Games |
-|SCP: Fragmented Minds |UI Design Concept art | HST Game Studios | 
+|[Reality Check](https://gasimo.itch.io/reality-check) |2D Art, Programming, UI | Me and my friends [Barbo](https://github.com/barborik) and Ondrej for the 48 hours GDS Gamejam 2023 | 
+|[Ječná Nightshift](https://gasimo.itch.io/nightshift)   |Solo dev    |         |
+|[SCP: Classified Site](https://play.google.com/store/apps/details?id=com.ALOBGames.SCPClassifiedSite) |Co-founder and developer | (c) Akequ, formerly [ALOB Games](https://www.appbrain.com/dev/ALOB+Games/) |
+|[SCP: Fragmented Minds](https://store.steampowered.com/app/1184790/SCP_Fragmented_Minds/) |UI Design Concept art | [HST Game Studios](https://www.hstgamestudios.com/) | 
 
 
 <!--
@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
