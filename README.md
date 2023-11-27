@@ -16,7 +16,7 @@ https://gasimo.itch.io/
 
 ### Past projects I worked on:
 
-|             |    |            |
+|Name             |What I did    |Team/Company            |
 |--------------      |-----------    |------------|
 |Reality Check |2D Art, Programming, UI | Me and 2 friends for the 48 hours GDS Gamejam 2023 | 
 |Ječná Nightshift   |Solo dev    |         |
