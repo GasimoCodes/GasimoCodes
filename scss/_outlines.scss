@@ -1,0 +1,31 @@
+// Base class
+.outline {
+  outline-style: solid;
+  outline-color: $light2;
+}
+
+// Variations
+.out-1 {
+  @extend .outline;
+  outline-width: 1px;
+}
+
+.out-2 {
+  @extend .outline;
+  outline-width: 2px;
+}
+
+.out-4 {
+  @extend .outline;
+  outline-width: 4px;
+}
+
+
+
+// Generate color variations
+@each $variation, $color in $color-variations {
+  .out-#{$variation} {
+    @extend .outline;
+    outline-color: $color;
+  }
+}
