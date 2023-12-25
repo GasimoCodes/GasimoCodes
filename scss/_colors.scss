@@ -1,0 +1,24 @@
+$white: #ffffff;
+$light: #f7f7f7;
+$light2: #bdbdbd;
+$light3: #8a8a8a;
+$dark: #222;
+$purple: #9747FF;
+
+
+
+$color-variations: (
+  light2: $light2,
+  light: $light,
+  dark: $dark,
+  purple: $purple,
+  transparent: transparent,
+);
+
+
+// Generate color variations
+@each $variation, $color in $color-variations {
+    .bg-#{$variation} {
+      background-color: $color;
+    }
+  }

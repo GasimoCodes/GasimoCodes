@@ -1,0 +1,172 @@
+@import "colors";
+@import "gradients";
+@import "values";
+@import "texts";
+@import "outlines";
+@import "shadows";
+
+
+
+html {
+  height: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: $dark;
+}
+
+body {
+  padding-top: $navbar-height;
+  /* Adjust this value based on your navbar height */
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+
+.navbar {
+  background-color: $dark;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: $navbar-height;
+
+  z-index: 1;
+
+  //box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 1em;
+    padding-right: 1em;
+    gap: 24px;
+  }
+
+  li {
+    display: flex;
+    gap: 10px;
+    padding: 15px;
+  }
+
+  li a {
+    color: $light;
+    text-align: center;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  li a:hover:not(.active) {
+    opacity: 90%;
+  }
+
+  .active {
+    color: white;
+  }
+
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 100%;
+
+    @include dithered-gradient(90%, 80%, 300%, $purple);
+  }
+}
+
+.float-left {
+  float: left
+}
+
+.flex-end {
+  margin-right: auto;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.circle-img {
+  border-radius: 100%;
+  display: flex;
+}
+
+.rounded {
+  border-radius: 25px;
+}
+
+
+.section {
+  min-width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  
+}
+
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  max-width: 1000px;
+  box-sizing: border-box;
+}
+
+.panel {
+  padding: 30px;
+  background-color: $white;
+  min-width: 5em;
+  min-height: 30em;
+  overflow: hidden;
+  display: flex;
+
+  filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0.0));
+
+  div {
+    display: inline-block;
+    align-self: flex-end;
+  }
+
+
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2; 
+}
+
+
+
+
+.hover3D {
+
+  transition: transform .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transform-origin: center center;
+
+  &:hover {
+    transform: scale3d(1.02, 1.02, 1.02) rotate(0.5deg);
+    filter: drop-shadow(0px 12px 30px rgba(0, 0, 0, 0.15));
+  }
+
+}
+
