@@ -5,6 +5,7 @@ Hobbyist Software/Game Developer and Designer
 Student at @MFF_UK
 
 Bored of code? Check out <br> 
+[My Blog/News website](https://gasimo.dev/)
 https://www.artstation.com/gasimo <br> 
 https://gasimo.itch.io/
 
