@@ -5,9 +5,9 @@
 
 ### Hi there 👋
 
-Hobbyist Software/Game Developer and Designer
+C# Software/Game Developer & Hobbyist Artist
 <br> 
-Student at @MFF_UK
+Working at @GoldenDog SAS
 
 Bored of code? Check out <br> 
 [My Blog/News website](https://gasimo.dev/) <br>
