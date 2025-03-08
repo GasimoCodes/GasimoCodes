@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/GasimoCodes/GasimoCodes/assets/22917863/cb30d310-cfc6-45af-afbd-27b17b740be3" alt="Ether img" height="250"/>
+<img align="right" src="https://gasimo.dev/media/img/Cineblend_Capsule.png" alt="Ether img" height="250"/>
 
 
 
