@@ -7,7 +7,7 @@
 
 C# Software/Game Developer & Hobbyist Artist
 <br> 
-Working at @GoldenDog SAS
+Working at @RaidEntertainment
 
 Bored of code? Check out <br> 
 [My Blog/News website](https://gasimo.dev/) <br>
@@ -16,7 +16,7 @@ https://gasimo.itch.io/
 
 <br> 
 
-🔭 Currently working on **SCP-Isolation** and **Ether**
+🔭 Currently working on **SCP-Isolation** and **Homeostasis**
 
 <br>
 
